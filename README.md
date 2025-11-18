@@ -100,17 +100,12 @@ Root source files:
 
 ### Initial Setup
 
-1. **Clone the repository**
-   ```bash
-   cd "Razerpay payment gateway/client"
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    npm install
    ```
 
-3. **Start development server**
+2. **Start development server**
    ```bash
    npm run dev
    ```
